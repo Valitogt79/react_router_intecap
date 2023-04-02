@@ -4,7 +4,7 @@ const AcercaDe = () => {
   return (
     <div>
       <h3>Página Acerca de..</h3>
-      <p>Esta es la página de Acerca de Intecap</p>
+      <p>Esta es la página de Acerca de ...</p>
       <img src={Perfil} alt="" />
       <p>Desarrollador <br />
         Oswaldo Alonzo <br />
